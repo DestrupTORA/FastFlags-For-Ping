@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://github.com/DestrupTORA/RobloxPingReloader/assets/157624868/92fa1b1b-d5a9-4391-a063-e5aa85afabf2" alt="0eeeb19633422b1241f4306419a0f15f39d58de9" width="100">
   
-# FastFlags-For-Better-Ping v1
+##### FastFlags-For-Better-Ping v1
 ## How to use FastFlags without Bloxtrap:
 ###### You can also do Roblox Studio
 1. **Navigate to your Roblox Installation directory. Typically found at `%localappdata%\Roblox\Versions\` for Windows or `C:\Program Files (x86)\Roblox\Versions`.**
