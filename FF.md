@@ -4,7 +4,8 @@
 { "DFIntTaskSchedulerTargetFps": "378", "FFlagHandleAltEnterFullscreenManually":"False",  "FFlagDebugSimIntegrationStabilityTesting": true }
 ```
 #  PingCombo v1
-```json 
+```json
+{
   "FFlagOptimizeNetwork": "True",
   "FFlagOptimizeNetworkRouting": "True",
   "FFlagOptimizeNetworkTransport": "True",
@@ -50,5 +51,6 @@
   "DFIntAnimatorThrottleMaxFramesToSkip": "1",
   "DFIntNumFramesAllowedToBeAboveError": "1",
   "DFIntVisibilityCheckRayCastLimitPerFrame": "10",
-  "DFIntNetworkSchemaCompressionRatio": "100",
+  "DFIntNetworkSchemaCompressionRatio": "100"
+}
 ```
