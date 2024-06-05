@@ -78,3 +78,8 @@
   "FFlagFixGraphicsQuality": "True"
 }
 ```
+```json
+  "DFIntPhysicsReceiveNumParallelTasks": "12",
+  "DFIntReplicationDataCacheNumParallelTasks": "12",
+  "DFIntMegaReplicatorNumParallelTasks": "12",
+  Ur logical proccessors
